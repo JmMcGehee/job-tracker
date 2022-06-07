@@ -1,3 +1,7 @@
+## Basically I'm ripping off this:
+
+![Job tracker image](/src/components/assets/job-tracker.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
