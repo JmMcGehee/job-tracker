@@ -1,3 +1,4 @@
+import './App.css'
 import jobTrackerImage from './components/assets/job-tracker.png'
 
 function App() {
